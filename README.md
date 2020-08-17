@@ -1,1 +1,1 @@
-# techBlog
+# Parallax
